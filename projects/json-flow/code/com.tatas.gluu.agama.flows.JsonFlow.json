@@ -1,0 +1,35 @@
+{
+  "nodes": [
+    {
+      "id": "Agama-start-Flow-5380a5ce-9164-4a49-8c2f-681a9df30d70",
+      "type": "start",
+      "sourcePosition": "right",
+      "data": {
+        "id": "Agama-start-Flow-5380a5ce-9164-4a49-8c2f-681a9df30d70",
+        "type": "Agama-start-Flow",
+        "position": {
+          "x": 30,
+          "y": 30
+        },
+        "inRepeatBlock": false,
+        "agamaData": {
+          "id": "Agama-start-Flow-5380a5ce-9164-4a49-8c2f-681a9df30d70",
+          "type": "Agama-start-Flow",
+          "flowname": "com.tatas.gluu.agama.flows.JsonFlow",
+          "displayName": "Json Flow",
+          "isTopLevelFlow": true,
+          "basepath": "",
+          "configParams": "{}",
+          "nodeIcon": "material-symbols:line-start-square",
+          "timeout": "",
+          "inputs": "",
+          "configs": ""
+        }
+      },
+      "position": {
+        "x": 30,
+        "y": 30
+      }
+    }
+  ]
+}
