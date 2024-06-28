@@ -14,7 +14,8 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "com.tatas.gluu.agama.flows.JsonFlow": {}
+            "com.tatas.gluu.agama.flows.JsonFlow": {},
+            "com.tatas.agama.flows.JsonFlow": {}
         },
         "name": "json-flow"
     }
