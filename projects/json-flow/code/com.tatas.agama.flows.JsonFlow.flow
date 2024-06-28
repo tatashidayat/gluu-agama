@@ -1,2 +1,6 @@
 Flow com.tatas.agama.flows.JsonFlow
      Basepath ""
+message = "Default message"
+RRF "json_test.ftlh" 
+it_oeuxg = {success:false, error: "This is error"}
+Finish it_oeuxg
