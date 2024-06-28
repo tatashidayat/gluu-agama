@@ -1,6 +1,0 @@
-Flow com.tatas.gluu.agama.flows.JsonFlow
-     Basepath ""
-message = "This is default message"
-RRF "json_test.ftlh" message
-it_ixqsd = {success:false, error: "This is expected to error"}
-Finish it_ixqsd
