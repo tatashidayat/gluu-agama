@@ -1,1 +1,18 @@
-{}
+{
+    "json-flow": {
+        "projectName": "json-flow",
+        "description": "Authenticate returns JSON",
+        "type": "community",
+        "author": "tatashidayat",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/tatashidayat/gluu-agama",
+        "githubUri": "https://github.com/tatashidayat/gluu-agama",
+        "license": "apache-2.0",
+        "lastUpdated": "1719549377370",
+        "tags": [
+            "authentication"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
